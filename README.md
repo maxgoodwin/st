@@ -1,7 +1,10 @@
-# Luke's build of st - the simple (suckless) terminal
+# My version of Luke Smith's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:
+
+## Changes by me (maxgoodwin)
++ Removed alt+shift+k and alt+shift+j bindings for increasing and decreasing font size
 
 ## Unique features (using dmenu)
 
